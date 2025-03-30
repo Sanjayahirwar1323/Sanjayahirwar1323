@@ -1,23 +1,29 @@
 <div align="center">
-  
-  # Sanjay Ahirwar
 
-  ![Banner](https://capsule-render.vercel.app/api?type=waveAnimation&color=gradient&customColorList=12&height=250&section=header&text=AI%20Engineer&fontSize=60&fontAlignY=35&desc=Machine%20Learning%20|%20Deep%20Learning%20|%20AWS&descAlignY=55&fontColor=ffffff&animation=twinkling)
+  # SANJAY AHIRWAR
+
 
   [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-ahirwar-b78709256/)
   [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayahirwar1323@gmail.com)
-  [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayahirwar)
+  [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjayahirwar1323)
   
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a passionate AI/ML Engineer specializing in building intelligent systems and scalable machine learning solutions. With a strong foundation in deep learning and cloud technologies, I focus on creating AI applications that solve real-world problems.
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB2MzEwazg1dGxmM2oydHZkaXhrbzB0NDRuNmxxNW1hdTJmZTM3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I'm currently working on advanced natural language processing and computer vision projects
-- 🌱 I'm learning multimodal LLMs and edge AI deployment techniques
-- 💡 I enjoy exploring the latest developments in generative AI and transformer architectures
-- 🚀 Building scalable AI systems that make a meaningful impact is what drives me
+> "Code that transforms data into intelligence" 🚀
+
+Hey there! 👋 I'm a **machine learning enthusiast** and **AI engineer** passionate about building intelligent systems that solve real-world problems. My journey in tech is fueled by curiosity and a drive to push the boundaries of what's possible with AI.
+
+- 🧠 Crafting solutions with **Deep Learning** and **Generative AI**
+- ☁️ Deploying scalable ML systems on **AWS**
+- 🔍 Exploring the fascinating world of **Large Language Models**
+- 💻 Building with **Python**, **TensorFlow**, **PyTorch**, and more
+- 🌱 Constantly learning and adapting to emerging AI technologies
+
+When I'm not training models, you'll find me exploring research papers, contributing to open-source, or experimenting with the latest AI breakthroughs!
 
 <div align="center">
 
@@ -48,7 +54,7 @@ I'm a passionate AI/ML Engineer specializing in building intelligent systems and
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=github-actions&logoColor=white)
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=sanjayahirwar&show_icons=true&count_private=true&hide_border=true&title_color=5BCDEC&icon_color=FF61F6&text_color=c9d1d9&bg_color=0d1117" alt="Sanjay Ahirwar's stats" /> 
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Sanjayahirwar1323&show_icons=true&count_private=true&hide_border=true&title_color=5BCDEC&icon_color=FF61F6&text_color=c9d1d9&bg_color=0d1117" alt="Sanjay Ahirwar's stats" /> 
 </div>
 
 <details>
@@ -70,8 +76,8 @@ I'm a passionate AI/ML Engineer specializing in building intelligent systems and
   
   ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
   
-  <img src="https://komarev.com/ghpvc/?username=sanjayahirwar&label=Profile%20views&color=5BCDEC&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Sanjayahirwar1323&label=Profile%20views&color=5BCDEC&style=for-the-badge" alt="Profile Views">
   
-  ### "Turning data into intelligence and intelligence into impact."
+  ### "Building the future with code, one model at a time."
 
 </div>
